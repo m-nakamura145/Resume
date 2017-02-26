@@ -2,7 +2,7 @@
 # プロフィール
 中村 真人(なかむら まさと) <br>
 1990年9月10日 <br>
-株式会社リクルートホールディングス(株式会社リクルートライフスタイル出向中) <br>
+株式会社トレタ <br>
 ソフトウェアエンジニア
 
 # 学歴
@@ -17,7 +17,8 @@
 
 |期間|所属会社|
 |:-:|:-:|
-|2015年4月 - 現在|株式会社リクルートホールディングス -> 株式会社リクルートライフスタイル出向中|
+|2016年10月 - 現在|株式会社トレタ|
+|2015年4月 - 2016年9月|株式会社リクルートホールディングス -> 株式会社リクルートライフスタイル出向|
 
 # 関連資料
 
@@ -25,6 +26,7 @@
 * http://qiita.com/m_nakamura145
 * https://www.linkedin.com/in/%E7%9C%9F%E4%BA%BA-%E4%B8%AD%E6%9D%91-1081ab115
 * http://engineer.recruit-lifestyle.co.jp/techblog/2015-09-17-unix-philosophy/
+* http://tech.toreta.in/entry/2017/01/20/100248
 
 # 活かせる経験・知識
 
@@ -39,6 +41,17 @@
 
 # 開発経歴
 
+## トレタ
+
+### 概要
+サーバサイドエンジニアとして、トレタのAPIを開発しています。
+
+### 詳細
+
+|期間|担当業務|環境・言語等|開発規模|
+|:-:|:-:|:-:|:-:|
+|2016年10月 - 現在|__トレタ__ <br> 機能開発、運用、データ分析|Ruby, Ruby On Rails, MySQL, CircleCI, Docker, AWS, BigQuery, re:dash |Software Engineer|
+
 ## リクルートライフスタイル
 
 ### 概要
@@ -49,5 +62,5 @@
 
 |期間|担当業務|環境・言語等|開発規模|
 |:-:|:-:|:-:|:-:|
-|2016年4月 - 現在|__AirWAIT__ <br> 機能追加、運用|Java, Spring, Oracle, Jenkins, SonarQube, CentOS, Tomcat |Team Lead、ServerSide、30人ほどのチーム|
+|2016年4月 - 2016年9月|__AirWAIT__ <br> 機能追加、運用|Java, Spring, Oracle, Jenkins, SonarQube, CentOS, Tomcat |Team Lead、ServerSide、30人ほどのチーム|
 |2015年4月 - 2016年3月|__QA向けテスト自動化サービス__ <br> サービスの立ち上げ、機能追加、運用|Ruby, Ruby On Rails, MySQL, Swift, XCTest, JavaScript, AngularJS, Jenkins, CentOS, Apache|FrontEnd, ServerSide, Infrastructure,ScrumMaster, 5人チーム|

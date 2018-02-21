@@ -1,66 +1,66 @@
 
-# プロフィール
-中村 真人(なかむら まさと) <br>
-1990年9月10日 <br>
-株式会社トレタ <br>
-ソフトウェアエンジニア
+Masato Nakamura<br>
+Software Engineer<br>
+masato.nakamura145@gmail.com
 
-# 学歴
+# Experience
 
-|卒業年|学校|
-|:-:|:-:|
-|2015年3月|筑波大学大学院 システム情報工学研究科コンピュータサイエンス専攻|
-|2013年3月|熊本高等専門学校 生産システム工学専攻情報システムコース|
-|2011年3月|熊本高等専門学校 情報電子工学科|
+## Backend Engineer | Toreta, Inc.
+Tokyo, Japan
+2016/10 - Current
 
-# 職務経歴
+* Implemented scalable microservices api for iOS,Web Client using Ruby on Rails and Golang
+* Implemented triple asynchronous jobs using Sidekiq
+* Refactored database tables with more than 20 million records on MySQL
+* Built Kubernetes Cluster and deployment automation on Google Kubernetes Engine using CircleCI and Google Container Registry
+* Worked effectively with design teams to develop efficient software using the data analyzed by SQL
+* Worked effectively with customer success team to resolve customer's problems team using slack app
 
-|期間|所属会社|
-|:-:|:-:|
-|2016年10月 - 現在|株式会社トレタ|
-|2015年4月 - 2016年9月|株式会社リクルートホールディングス -> 株式会社リクルートライフスタイル出向|
+## Backend Engineer & Team Lead | Recruit Holdings Co., Ltd.
+Tokyo, Japan
+2015/4 - 2016/9
 
-# 関連資料
+* Implemented api for iOS Client using Spring Framework
+* Implemented Closure Table Model using Ruby on Rails on MySQL
+* Improved team productivity with Scrum
+
+## Sofware Engineer Intern | Cookpad Inc.
+Tokyo, Japan
+2014/6 - 2014/12
+
+* Implemented api for Web Client
+
+# Education
+Master of Engineering, Computer Science<br>
+University of Tsukuba - Tsukuba, Japan
+
+# Skills
+
+## Programming Language
+Ruby, Go, Java, Python, HTML, CSS, Javascript, SQL
+
+## Framework
+Ruby On Rails(Ruby), Spring Framework(Java), MySQL, PostgreSQL,
+
+## Middleware
+Fluentd, Digdag, Kubernetes, CircleCI, Jenkins, newrelic, Mackerel
+
+## Infrastructure
+Amazon EC2, Aurora(MySQL), S3, SQS,
+Google Kubernetes Engine, Google Container Registry,
+Google BigQuery, Firebase Authentication
+Google Stackdriver Logging, Sendgrid
+
+## Software/Environment
+Emacs, Atom, Gogland, MacOS X, Ubuntu, Debian, Centos, Alpine Linux
+
+# My Articles
 
 * https://github.com/m-nakamura145
+* https://speakerdeck.com/m_nakamura145
 * http://qiita.com/m_nakamura145
 * https://www.linkedin.com/in/%E7%9C%9F%E4%BA%BA-%E4%B8%AD%E6%9D%91-1081ab115
 * http://engineer.recruit-lifestyle.co.jp/techblog/2015-09-17-unix-philosophy/
 * http://tech.toreta.in/entry/2017/01/20/100248
-
-# 活かせる経験・知識
-
-## 1. アジャイル開発
-* 認定スクラムマスターであり、自分が所属するチームでのアジャイル開発(Scrum)の推進役を行っています。
-* ビジネス側と開発チームとの間を取り持ち、エンジニア以外の方にもわかりやすく開発状況を説明しており、プロダクトへのROIを意識した開発を行っています。
-
-## 2. 開発における幅の広さ
-* サーバサイド開発、フロントエンド開発、データベース構築、インフラ管理などを経験しており、全体を俯瞰したサービス設計を意識しています。
-
-* 新規サービス立ち上げや中規模サービス開発を経験しており、プロジェクト規模に合わせたチーム運営・開発を考えられます
-
-# 開発経歴
-
-## トレタ
-
-### 概要
-サーバサイドエンジニアとして、トレタのAPIを開発しています。
-
-### 詳細
-
-|期間|担当業務|環境・言語等|開発規模|
-|:-:|:-:|:-:|:-:|
-|2016年10月 - 現在|__トレタ__ <br> 機能開発、運用、データ分析|Ruby, Ruby On Rails, MySQL, CircleCI, Docker, AWS, BigQuery, re:dash |Software Engineer|
-
-## リクルートライフスタイル
-
-### 概要
-
-ソフトウェアエンジニアとして社内向けのテスト自動化サービスの開発と、待ち時間を解消する順番管理iOSアプリの開発を行いました。また、スクラムマスターとして、チーム作りと開発プロセスの改善を行いました。
-
-### 詳細
-
-|期間|担当業務|環境・言語等|開発規模|
-|:-:|:-:|:-:|:-:|
-|2016年4月 - 2016年9月|__AirWAIT__ <br> 機能追加、運用|Java, Spring, Oracle, Jenkins, SonarQube, CentOS, Tomcat |Team Lead、ServerSide、30人ほどのチーム|
-|2015年4月 - 2016年3月|__QA向けテスト自動化サービス__ <br> サービスの立ち上げ、機能追加、運用|Ruby, Ruby On Rails, MySQL, Swift, XCTest, JavaScript, AngularJS, Jenkins, CentOS, Apache|FrontEnd, ServerSide, Infrastructure,ScrumMaster, 5人チーム|
+* http://tech.toreta.in/entry/2017/12/18/100000
+* http://tech.toreta.in/entry/2017/12/24/100000

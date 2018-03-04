@@ -1,6 +1,5 @@
 
 Masato Nakamura<br>
-Software Engineer<br>
 masato.nakamura145@gmail.com
 
 # Experience
@@ -9,26 +8,24 @@ masato.nakamura145@gmail.com
 Tokyo, Japan
 2016/10 - Current
 
-* Implemented scalable microservices api for iOS,Web Client using Ruby on Rails and Golang
+* Implemented scalable microservices api for iOS,Web Client using Ruby on Rails
 * Implemented triple asynchronous jobs using Sidekiq
-* Refactored database tables with more than 20 million records on MySQL
-* Built Kubernetes Cluster and deployment automation on Google Kubernetes Engine using CircleCI and Google Container Registry
+* Refactored database tables with more than 40 million records on MySQL
 * Worked effectively with design teams to develop efficient software using the data analyzed by SQL
-* Worked effectively with customer success team to resolve customer's problems team using slack app
+* Created an environment where all the people inside the company can see the data and the customer success team can effectively use the data to approach customers
 
 ## Backend Engineer & Team Lead | Recruit Holdings Co., Ltd.
 Tokyo, Japan
 2015/4 - 2016/9
 
-* Implemented api for iOS Client using Spring Framework
+* Investigated the log and found a bug where middleware unintentionally erased cookies and fixed a bug that the application unintentionally logs out
 * Implemented Closure Table Model using Ruby on Rails on MySQL
-* Improved team productivity with Scrum
 
 ## Sofware Engineer Intern | Cookpad Inc.
 Tokyo, Japan
 2014/6 - 2014/12
 
-* Implemented api for Web Client
+* Implemented api for Web Client using Ruby on Rails
 
 # Education
 Master of Engineering, Computer Science<br>
@@ -37,26 +34,25 @@ University of Tsukuba - Tsukuba, Japan
 # Skills
 
 ## Programming Language
-Ruby, Go, Java, Python, HTML, CSS, Javascript, SQL
+Ruby(expert), Go(beginner), Java(beginner), SQL(advanced)
 
 ## Framework
-Ruby On Rails(Ruby), Spring Framework(Java), MySQL, PostgreSQL,
+Ruby On Rails(expert) Spring Framework(beginner)
+
+## Database
+MySQL,Amazon Aurora(advanced), PostgreSQL(beginner)
 
 ## Middleware
-Fluentd, Digdag, Kubernetes, CircleCI, Jenkins, newrelic, Mackerel
+CircleCI, Jenkins, New Relic, Mackerel
 
 ## Infrastructure
-Amazon EC2, Aurora(MySQL), S3, SQS,
-Google Kubernetes Engine, Google Container Registry,
-Google BigQuery, Firebase Authentication
-Google Stackdriver Logging, Sendgrid
+Amazon EC2,S3, Google BigQuery
 
-## Software/Environment
-Emacs, Atom, Gogland, MacOS X, Ubuntu, Debian, Centos, Alpine Linux
+## Environment
+MacOS X, Ubuntu, Debian
 
 # My Articles
 
-* https://github.com/m-nakamura145
 * https://speakerdeck.com/m_nakamura145
 * http://qiita.com/m_nakamura145
 * https://www.linkedin.com/in/%E7%9C%9F%E4%BA%BA-%E4%B8%AD%E6%9D%91-1081ab115

@@ -8,24 +8,25 @@ masato.nakamura145@gmail.com
 Tokyo, Japan
 2016/10 - Current
 
-* Implemented scalable microservices api for iOS,Web Client using Ruby on Rails
+* Worked with customer success team and provided measures to get customers to use its service well
+* For customer success team, I built the internal dashboards and developed many features on internal services to improve their operation
+* Worked effectively with design teams to develop efficient software using its data analyzed by SQL
+* Implemented scalable microservices API for iOS, Web Client using Ruby on Rails
 * Implemented triple asynchronous jobs using Sidekiq
 * Refactored database tables with more than 40 million records on MySQL
-* Worked effectively with design teams to develop efficient software using the data analyzed by SQL
-* Created an environment where all the people inside the company can see the data and the customer success team can effectively use the data to approach customers
 
 ## Backend Engineer & Team Lead | Recruit Holdings Co., Ltd.
 Tokyo, Japan
 2015/4 - 2016/9
 
-* Investigated the log and found a bug where middleware unintentionally erased cookies and fixed a bug that the application unintentionally logs out
+* Investigated logs and found a bug where middleware unintentionally delete Cookie, and fixed a bug that our application unintentionally logs out
 * Implemented Closure Table Model using Ruby on Rails on MySQL
 
 ## Sofware Engineer Intern | Cookpad Inc.
 Tokyo, Japan
 2014/6 - 2014/12
 
-* Implemented api for Web Client using Ruby on Rails
+* Implemented API for Web Client using Ruby on Rails
 
 # Education
 Master of Engineering, Computer Science<br>
@@ -40,7 +41,7 @@ Ruby(expert), Go(beginner), Java(beginner), SQL(advanced)
 Ruby On Rails(expert) Spring Framework(beginner)
 
 ## Database
-MySQL,Amazon Aurora(advanced), PostgreSQL(beginner)
+MySQL, Amazon Aurora(advanced), PostgreSQL(beginner)
 
 ## Middleware
 CircleCI, Jenkins, New Relic, Mackerel

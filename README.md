@@ -9,9 +9,9 @@ Tokyo, Japan
 2016/10 - Current
 
 * Worked with customer success team to find and solve customers' problems
-* Built an internal dashboard with the customer success team, and developed significant features on internal services to improve its operation
+* Built internal dashboards with the customer success team, and developed significant features on internal services to improve its operation
 * Worked effectively with design teams to develop efficient software using its data analyzed by SQL
-* Implemented scalable microservices API for iOS, Web Client using Ruby on Rails to integrate our multiple services
+* Implemented scalable microservices API for iOS, Web Client using Ruby on Rails to integrate more than 10 services
 * Refactored database tables with more than 40 million records on MySQL to improve quality of our data
 
 ## Backend Engineer & Team Lead | Recruit Holdings Co., Ltd.
